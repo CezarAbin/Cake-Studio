@@ -39,6 +39,6 @@ The testing was conducted using Black Box Testing techniques, covering:
 
  🚀 How to Contribute
 	1.	Fork the repository.
-	2.	Clone the repo: git clone https://github.com/yourusername/CakeStudio-ManualTesting.git
+	2.	Clone the repo: git clone https://github.com/CezarAbin/Cake-Studio.git
 	3.	Add test cases or report issues.
 	4.	Submit a Pull Request.
